@@ -1,5 +1,5 @@
 node_modules/**/*
-.expo/*
+# .expo/*
 npm-debug.*
 *.jks
 *.p8
@@ -9,11 +9,11 @@ npm-debug.*
 *.orig.*
 web-build/
 android
-.env*
+# .env*
 .idea
 
 # macOS
 .DS_Store
 yarn.lock
 .expo-shared
-.env
+# .env
